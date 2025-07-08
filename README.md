@@ -9,8 +9,6 @@
 This Colab notebook implements a streamlined pipeline to train a CNN on a labeled dataset of images—some real, others AI‑generated. Using convolutional, pooling, and fully connected layers, the model learns visual patterns to output whether each image is **“Real”** or **“AI‑generated.”**
 
 ---
-## LINK TO THE DATASET
-[Dataset](kaggle competitions download -c iiti-ml-starters-hackathon)
 
 ## 🗂️ Dataset Preparation
 
